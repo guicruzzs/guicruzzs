@@ -1,16 +1,13 @@
-### Hi there 👋
+# Hi folks!
 
-<!--
-**guicruzzs/guicruzzs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Code is my job and passion. I'm usually working on private projects, but I love to contribute and share.
 
-Here are some ideas to get you started:
+Working @ [Gonddo](https://gonddo.com.br/), empowering small business.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I still have a dream of create a game, so I use some repos here to have fun with that.
+
+:bird: [@cruzguilherm](https://twitter.com/cruzguilherm)
+:construction_worker_man: [LinkedIn](https://www.linkedin.com/in/cruzguilherme/)
+
+Welcome aboard
+# :flying_saucer:
